@@ -1,4 +1,4 @@
-FROM lmnetworks/alpine:3.10.1_20190723
+FROM lmnetworks/alpine:3.10.2_20191014
 
 LABEL io.github.tinyproxy.version="1.10.0"
 LABEL image_name="lmnetworks/tinyproxy"
